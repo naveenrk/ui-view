@@ -1,0 +1,30 @@
+{
+  "name": "angular",
+  "version": "0.0.0",
+  "authors": [
+    "naveenramakrishna <naveenrk18@gmail.com>"
+  ],
+  "description": "angular",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5"
+  },
+  "devDependencies": {
+    "angular": "~1.4.7"
+  }
+}
